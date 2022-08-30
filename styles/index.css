@@ -1,0 +1,14 @@
+h2 {color: rgb(64, 67, 67)};
+li { background-color: pink; }
+
+li:nth-child(odd) { background-color: lightgray; 
+}
+body {
+
+    background-image: url(../images/floors.webp);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+}
