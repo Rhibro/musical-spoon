@@ -12,3 +12,10 @@ body {
     background-attachment: fixed;
 
 }
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: darkgray;
+    border-radius: 50%;
+    box-shadow: 10px 10px 20px black;
+}
